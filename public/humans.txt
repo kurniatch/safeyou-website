@@ -1,0 +1,32 @@
+__  __  __
+\ \ \ \ \/
+ \ \/\ \
+  \/  \/
+
+The humans.txt file provides an overview of our team, the technology, and graphic assets utilized in the development of the *SafeYou Wristband* project. Our goal is to create a solution that enhances safety and well-being through thoughtful design and cutting-edge technology.
+
+_______________________________________________________________________________
+
+SafeYou Wristband
+
+Design Tools:
+Figma
+Photoshop
+Blender
+
+_______________________________________________________________________________
+
+TECHNOLOGY | テクノロジー
+
+React
+Remix
+Three.js
+Framer Motion
+
+_______________________________________________________________________________
+
+FONTS | フォント
+
+Gotham
+IPA Gothic Regular
+Hiragino Kaku Gothic W8
