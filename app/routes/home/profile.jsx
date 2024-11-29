@@ -1,6 +1,6 @@
-import profileImgLarge from '~/assets/profile-large.jpg';
+import profileImgLarge from '~/assets/profile-large.png';
 import profileImgPlaceholder from '~/assets/profile-placeholder.jpg';
-import profileImg from '~/assets/profile.jpg';
+import profileImg from '~/assets/profile.png';
 import { Button } from '~/components/button';
 import { DecoderText } from '~/components/decoder-text';
 import { Divider } from '~/components/divider';
@@ -73,7 +73,7 @@ export const Profile = ({ id, visible, sectionRef }) => {
                   About Us
                 </div>
               </div>
-              {/* <div className={styles.image}>
+              <div className={styles.image}>
                 <Image
                   reveal
                   delay={100}
@@ -87,7 +87,7 @@ export const Profile = ({ id, visible, sectionRef }) => {
                 <svg className={styles.svg} data-visible={visible} viewBox="0 0 136 766">
                   <use href={`${katakana}#katakana-profile`} />
                 </svg>
-              </div> */}
+              </div>
             </div>
           </div>
         )}
