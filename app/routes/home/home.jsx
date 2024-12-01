@@ -41,8 +41,8 @@ export const links = () => {
 
 export const meta = () => {
   return baseMeta({
-    title: 'Designer + Developer',
-    description: `Design portfolio of ${config.name} — a product designer working on web & mobile apps with a focus on motion, experience design, and accessibility.`,
+    title: 'Safe You + Safe Life',
+    description: `SafeYou is a wearable device that helps you to stay safe and healthy. It is a device that can monitor your health and provide you with the best health care service.`,
   });
 };
 
