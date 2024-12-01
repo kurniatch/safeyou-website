@@ -106,7 +106,7 @@ export const Home = () => {
         title="Designing the future of Health Care"
         description="SafeYou Wrisdtband is a wearable device that helps you to stay safe and healthy"
         buttonText="Get Started"
-        buttonLink="http://34.123.59.28/"
+        buttonLink="https://app.safeyou.site"
         model={{
           type: 'laptop',
           alt: 'Smart Sparrow lesson builder',
@@ -127,7 +127,7 @@ export const Home = () => {
         title="Monitoring your Health with Your Phone"
         description="Developed system responsive with mobile that helps you to monitor your health"
         buttonText="Get Started"
-        buttonLink="http://34.123.59.28/"
+        buttonLink="https://app.safeyou.site"
         model={{
           type: 'phone',
           alt: 'App login screen',
@@ -151,7 +151,7 @@ export const Home = () => {
         title="With Collabaration, We Can Achieve More"
         description="In The future, we can collaborate with several health care providers to provide the best service for you"
         buttonText="Get Started"
-        buttonLink="http://34.123.59.28/"
+        buttonLink="https://app.safeyou.site"
         model={{
           type: 'laptop',
           alt: 'Annotating a biomedical image in the Slice app',
